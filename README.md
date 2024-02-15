@@ -4,7 +4,7 @@ To get familiar with the technicalities of HotReRAM, please go through our techn
 
 Execution:
 1. get the periodic traces from gem5 simulator.
-2. execute /HotReRAM-master/ReRAM-Example/HotReRAM_Stats/retrieve.sh script to generate the relevant performance traces from gem5's output.
+2. executeHotReRAM_Stats/retrieve.sh script to generate the relevant performance traces from gem5's output.
 3. execute /HotReRAM-master/master_file_temperature.sh scipt to generate power, temperature and other relevant parameters of your ReRAM cache.
 
 Note that, the power values in DynPowerCal.pl and LeakPowerCal.pl should be changed while changing your cache parameters/configurations. Additionally, the paths for different files also be correctly adjusted/modified while executing HotReRAM in your machine. Feel free to make any changes. 
