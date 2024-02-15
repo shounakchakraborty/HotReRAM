@@ -9,4 +9,4 @@ Execution:
 
 Note that, the power values in DynPowerCal.pl and LeakPowerCal.pl should be changed while changing your cache parameters/configurations. Additionally, the paths for different files also be correctly adjusted/modified while executing HotReRAM in your machine. Feel free to make any changes. 
 
-Please do not forget to cite our technical report 
+Please do not forget to cite our technical report in the following format: Shounak Chakraborty, Thanasin Bunnam, Jedsada Arunruerk, Sukarn Agarwal, Shengqi Yu, Rishad Shafik, Magnus Sjalander, "HotReRAM: A Performance-Power-Thermal Simulation Framework for ReRAM based Caches"-- Technical Report, February 2024. 
